@@ -1,0 +1,12 @@
+# 強制所有文本文件使用 LF 作為行尾
+* text=auto
+
+# 確保以下文件類型總是使用 LF
+*.js   text eol=lf
+*.jsx  text eol=lf
+*.ts   text eol=lf
+*.tsx  text eol=lf
+*.json text eol=lf
+*.css  text eol=lf
+*.scss text eol=lf
+*.md   text eol=lf
